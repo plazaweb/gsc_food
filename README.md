@@ -1,2 +1,0 @@
-# gsc_food
-Cucina
